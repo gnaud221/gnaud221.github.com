@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll and EasyBook"
-date:   2014-12-30 09:00:13
+title:  "Welcome to my blog"
+date:   2019-10-4 08:27:59
 categories: jekyll update
 permalink: /archivers/hello
 ---
