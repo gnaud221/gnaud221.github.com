@@ -1,5 +1,5 @@
 # Site settings
-title: 후.블로그
+title: 후.Blog
 url: "http://gnaud221.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
@@ -10,7 +10,7 @@ description: >
 email: your_email@example.com
 author: 후명
 avatar: "http://gnaud221.github.io/image/avata.jpg"
-profile: 고양이 좋아~~~.
+profile: 고양이 좋아~~~
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
