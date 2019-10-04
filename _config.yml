@@ -14,9 +14,9 @@ profile: 고양이 좋아~~~
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
-  Email: "mailto:your_email@example.com"
+  Email: "mailto:gnaud221@gmail.com"
   GitHub: "https://github.com/gnaud221/"
-  # You can add more profile links above, or edit _includes/sidebar.html 
+  # You can add more profile links above, or edit _includes/sidebar.html
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
