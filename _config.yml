@@ -1,5 +1,5 @@
 # Site settings
-title: Another Blog
+title: 후.블로그
 url: "http://gnaud221.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
@@ -9,8 +9,8 @@ description: >
 # Your information
 email: your_email@example.com
 author: 후명
-avatar: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjUzeT3pILlAhVRxosBHemeDw4QjRx6BAgBEAQ&url=https%3A%2F%2Fphotofix.kr%2Fbbs%2Fboard.php%3Fbo_table%3Dcome3_1%26wr_id%3D3612%26page%3D8&psig=AOvVaw04zkYwkg6v5bxYCXEld7Se&ust=1570267529266899"
-profile: One sentence introducing yourself.
+avatar: "//www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjUzeT3pILlAhVRxosBHemeDw4QjRx6BAgBEAQ&url=https%3A%2F%2Fphotofix.kr%2Fbbs%2Fboard.php%3Fbo_table%3Dcome3_1%26wr_id%3D3612%26page%3D8&psig=AOvVaw04zkYwkg6v5bxYCXEld7Se&ust=1570267529266899"
+profile: 고양이 좋아~~~.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
