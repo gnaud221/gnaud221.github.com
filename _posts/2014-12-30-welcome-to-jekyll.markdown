@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to my blog"
 date:   2019-10-4 08:27:59
-categories: jekyll update
+categories: Coding
 permalink: /archivers/hello
 ---
 
