@@ -13,7 +13,7 @@ permalink: /archivers/game
 
 #  행복한 게임 리뷰
 
-###이번 편 게임 소개
+### 이번 편 게임 소개
 
 #### Skul: The Hero _Slayer
 
