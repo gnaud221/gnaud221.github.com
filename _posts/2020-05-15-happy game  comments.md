@@ -9,7 +9,7 @@ permalink: /archivers/game
 
 **이번 편 게임 소개**
 
-**Skul: The Hero _Slayer**
+###Skul: The Hero _Slayer
 
 <!--more-->
 
@@ -21,7 +21,9 @@ permalink: /archivers/game
 
 ![로고](https://gnaud221.github.io/image/game-1.GIF )
 # 1. 스토리
+
 &nbsp;
+
 ---
 먼 옛날 하모니아(Harmonia) 대륙에는 인간과 인간이 **아닌** 자들이 각자의 생활을 영위하고 있었습니다.  
   
