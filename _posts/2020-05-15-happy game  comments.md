@@ -1,3 +1,16 @@
+---
+layout: post
+title:  "GAMES"
+date:   2020-05-22 04:25
+categories: HAPPY GAMES
+permalink: /archivers/game
+---
+
+
+
+
+
+
 #  행복한 게임 리뷰
 
 ###이번 편 게임 소개
