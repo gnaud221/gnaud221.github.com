@@ -9,7 +9,7 @@ permalink: /archivers/game
 
 **이번 편 게임 소개**
 
-###Skul: The Hero _Slayer
+### Skul: The Hero _Slayer
 
 <!--more-->
 
