@@ -68,19 +68,27 @@ permalink: /archivers/game
  
  ## 5.1일반
  ![enter image description here](https://gnaud221.github.io/image/game-3.PNG)
+ 
+ 
  가장 **기본**이 되는 등급. 기본 스컬인 **리틀본 역시 일반등급**으로 취급된다. 리틀본을 제외하면 **하나의 스킬만 사용** 가능하다. 일반등급 뼈 무덤에서 **높은 확률**로 등장한다.
  <iframe width="697" height="392" src="https://www.youtube.com/embed/QjFJG63qlsI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## 5.2레어
 ![enter image description here](https://gnaud221.github.io/image/game-4.PNG)
+
+
 일반등급보다 **강력한 스킬**들을 가지며 **일부 스컬은 두개의 스킬**을 사용하기도 한다.  레어 뼈 무덤에서 **높은확률**로 등장하며 **낮은확률로 일반 뼈무덤**에서 나오기도 한다.
 <iframe width="697" height="392" src="https://www.youtube.com/embed/1fHgvgnBELY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## 5.3유니크
 ![enter image description here](https://gnaud221.github.io/image/game-5.PNG)
+
+
 **기본 2개의 스킬을 사용** 가능하며, 전체적이 성능이 상당히 **강력**하여 **3스테이지 보스까지 무난히 쓸 수 있는 스컬**들이다. **유니크 뼈무덤**에서 주로 **발견**되며, **일반/레어등급의 뼈 무덤**에서도 **매우 낮은 확률**로 등장하기도 한다.
 
 ## 5.4레전더리
 
 ![enter image description here](https://gnaud221.github.io/image/game-6.PNG)
+
+
 상당히 **강력한 공격력**과 **스킬성능**을 자랑하는 **최종스컬들**. **레어/유니크 스컬로도 빡빡한 3스테이지의 난이도**가 레전더리 스컬을 얻는순간 **수직 하강**하는걸 느낄 수 있다. **극악의 확률**로 1,2스테이지에 얻게 된다면 말 그대로 **스치면 사망하는 몹**들을 볼 수 있게 된다. **레전더리 뼈무덤**에서 **확정적**으로 나오며, **유니크 뼈무덤**에서 **낮은 확률**로 등장한다.  
   
 그림리퍼는 그나마 **공격범위도 넓고** 스킬도 별 **조건없이 발동되는 스킬이** 많아 **사용하기 쉽지만**, 파이터나 야차 같은 경우는 **스킬 발동조건**이 좀 있는 편이고 **캔슬이 안되는 스킬**도 있어 **숙련도**가 **필요**하다. 그러나 **레전더리 스컬 등장 확률**이 낮아서 **다른 해골들이 손에 익고** 아이템 조합을 거의 다 했을 때 쯤 나타나기 때문에 **효율은 좀 떨어지는 편.**
