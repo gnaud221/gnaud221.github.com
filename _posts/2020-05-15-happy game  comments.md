@@ -12,6 +12,7 @@ permalink: /archivers/game
 **Skul: The Hero _Slayer**
 
 <!--more-->
+
 ## 들어가기에 앞서 ##
 게임 리뷰는 제 **생각**으로 이루어진 리뷰임 그러니까 **재미**있게 보세요~~ 
 
