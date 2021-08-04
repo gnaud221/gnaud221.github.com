@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title:  "discordbot"
@@ -10,18 +11,25 @@ permalink: /archivers/discordbot
 
 
 1. 영상찾기
-	  + embed로 영상 정리하기
+	  + 검색어로 영상찾기
+	     - 중요함★★★★ 난이도★
+      + embed로 영상 정리하기
+         - 중요함★ 난이도★
 2. 영상 선택하기
    - embed로 영상 정보 보내기
+      - 중요함★★ 난이도★
    - 버튼 사용해서 영상 선택하기
+	   - 중요함★★★ 난이도★★★★
 3. 영상 재생하기
    - 영상을 소리로 바꾸기
+     - 중요함★★★★★ 난이도?
    - 소리 재생하기
+     - 중요함★★★★★ 난이도?
    
   
 
 <h2> 영상찾기 </h2> 
-유튜브 api를 활용해서 검색결과 5개를 메세지로 보냈다
+영상을 검색하면 유튜브 검색결과 5개를 메세지로 보냈다
 
 ![enter image description here](https://gnaud221.github.io/image/asdf.png)
 
