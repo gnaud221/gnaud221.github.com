@@ -28,7 +28,7 @@ permalink: /archivers/discordbot
    
   
 
-<h2> 영상찾기 </h2> 
+<h2> 영상찾기 </h2> (모두 완성)
 영상을 검색하면 유튜브 검색결과 5개를 메세지로 보냈다
 
 ![enter image description here](https://gnaud221.github.io/image/asdf.png)
@@ -38,7 +38,7 @@ permalink: /archivers/discordbot
 ![enter image description here](https://gnaud221.github.io/image/embedclose.png)
 
 
-<h2> 영상 선택하기 </h2> 
+<h2> 영상 선택하기 </h2> (모두 완성)
 영상여러개중에 원하는 영상의 번호를 보내면 영상의 자세한 정보가 나오게 했다
 
 정보를 embed를 사용해서 예쁘게 꾸몄다
